@@ -1,2 +1,19 @@
 archive.rar
 archive
+# Model files
+saved_models/
+*.pkl
+*.h5
+*.model
+*.bin
+*.pth
+
+# Dataset files
+data/
+datasets/
+*.csv
+
+# Cache
+__pycache__/
+*.pyc
+.cache/
