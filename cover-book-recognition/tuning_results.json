@@ -1,0 +1,41 @@
+{
+    "best_parameters": {
+        "model_storage_directory": "saved_models",
+        "download_enabled": true,
+        "user_network_directory": "saved_models",
+        "recog_network": "standard"
+    },
+    "best_score": 0.7342525208934503,
+    "all_results": [
+        {
+            "parameters": {
+                "model_storage_directory": "saved_models",
+                "download_enabled": true,
+                "user_network_directory": "saved_models",
+                "recog_network": "standard"
+            },
+            "metrics": {
+                "avg_precision": 0.7149102987105843,
+                "avg_recall": 0.7874999051429905,
+                "avg_f1_score": 0.7342525208934503,
+                "avg_confidence": 0.3934917900592961
+            },
+            "evaluation_time": 254.1549792289734
+        },
+        {
+            "parameters": {
+                "model_storage_directory": "saved_models",
+                "download_enabled": true,
+                "user_network_directory": "saved_models",
+                "recog_network": "latin_g1"
+            },
+            "metrics": {
+                "avg_precision": 0.7149102987105843,
+                "avg_recall": 0.7874999051429905,
+                "avg_f1_score": 0.7342525208934503,
+                "avg_confidence": 0.3934917900592961
+            },
+            "evaluation_time": 256.6689877510071
+        }
+    ]
+}

@@ -1,0 +1,1141 @@
+[
+    {
+      "category_name": "001 - Ilmu Pengetahuan Umum",
+      "rack_id": "RK001",
+      "keywords": [
+        "ensiklopedia",
+        "umum",
+        "fakta",
+        "pengetahuan",
+        "referensi",
+        "sejarah",
+        "budaya",
+        "dunia",
+        "modern",
+        "dasar",
+        "ielts"
+      ]
+    },
+    {
+      "category_name": "003 - Sistem",
+      "rack_id": "RK003",
+      "keywords": [
+        "sistem",
+        "arsitektur",
+        "desain",
+        "analisis",
+        "manajemen",
+        "informasi",
+        "kompleks",
+        "struktur",
+        "pemodelan",
+        "implementasi",
+        "dairy",
+        "teacher"
+      ]
+    },
+    {
+      "category_name": "004 - Pengolahan Data",
+      "rack_id": "RK004",
+      "keywords": [
+        "data",
+        "pengolahan",
+        "analisis",
+        "big data",
+        "database",
+        "statistik",
+        "visualisasi",
+        "miner",
+        "machine learning",
+        "algoritma"
+      ]
+    },
+    {
+      "category_name": "005 - Pemrograman Komputer",
+      "rack_id": "RK005",
+      "keywords": [
+        "pemrograman",
+        "komputer",
+        "python",
+        "java",
+        "c++",
+        "web",
+        "aplikasi",
+        "algoritma",
+        "coding",
+        "software"
+      ]
+    },
+    {
+      "category_name": "006 - Metode Komputer",
+      "rack_id": "RK006",
+      "keywords": [
+        "metode",
+        "komputer",
+        "algoritma",
+        "numerik",
+        "simulasi",
+        "optimasi",
+        "pemodelan",
+        "komputasi",
+        "riset",
+        "analisis"
+      ]
+    },
+    {
+      "category_name": "160 - Logika",
+      "rack_id": "RK160",
+      "keywords": [
+        "logika",
+        "filsafat",
+        "penalaran",
+        "kritis",
+        "matematika",
+        "argumen",
+        "deduktif",
+        "induktif",
+        "simbolik",
+        "pemikiran"
+      ]
+    },
+    {
+      "category_name": "297 - Agama",
+      "rack_id": "RK297",
+      "keywords": [
+        "agama",
+        "spiritual",
+        "islam",
+        "kristen",
+        "buddha",
+        "hindu",
+        "teologi",
+        "filsafat",
+        "etika",
+        "kepercayaan"
+      ]
+    },
+    {
+      "category_name": "300 - Ilmu Sosial",
+      "rack_id": "RK300",
+      "keywords": [
+        "sosial",
+        "masyarakat",
+        "budaya",
+        "politik",
+        "ekonomi",
+        "antropologi",
+        "sosiologi",
+        "psikologi",
+        "komunikasi",
+        "globalisasi"
+      ]
+    },
+    {
+      "category_name": "500 - Sains",
+      "rack_id": "RK500",
+      "keywords": [
+        "sains",
+        "penelitian",
+        "eksperimen",
+        "teori",
+        "alam",
+        "fisika",
+        "kimia",
+        "biologi",
+        "astronomi",
+        "teknologi"
+      ]
+    },
+    {
+      "category_name": "510 - Matematika Murni",
+      "rack_id": "RK510",
+      "keywords": [
+        "matematika",
+        "murni",
+        "teori",
+        "abstrak",
+        "bukti",
+        "persamaan",
+        "fungsi",
+        "himpunan",
+        "bilangan",
+        "struktur"
+      ]
+    },
+    {
+      "category_name": "511 - Prinsip Umum",
+      "rack_id": "RK511",
+      "keywords": [
+        "prinsip",
+        "umum",
+        "konsep",
+        "dasar",
+        "teori",
+        "hukum",
+        "fondasi",
+        "pendekatan",
+        "universal",
+        "metafisika"
+      ]
+    },
+    {
+      "category_name": "512 - Aljabar",
+      "rack_id": "RK512",
+      "keywords": [
+        "aljabar",
+        "persamaan",
+        "variabel",
+        "matriks",
+        "vektor",
+        "polinomial",
+        "linear",
+        "abstrak",
+        "grup",
+        "cincin"
+      ]
+    },
+    {
+      "category_name": "513 - Aritmatika",
+      "rack_id": "RK513",
+      "keywords": [
+        "aritmatika",
+        "bilangan",
+        "dasar",
+        "operasi",
+        "pecahan",
+        "persen",
+        "desimal",
+        "kalkulasi",
+        "hitungan",
+        "teori bilangan"
+      ]
+    },
+    {
+      "category_name": "514 - Topologi",
+      "rack_id": "RK514",
+      "keywords": [
+        "topologi",
+        "ruang",
+        "kontinu",
+        "manifold",
+        "geometri",
+        "bentuk",
+        "dimensi",
+        "titik",
+        "set",
+        "metrik"
+      ]
+    },
+    {
+      "category_name": "515 - Analisis",
+      "rack_id": "RK515",
+      "keywords": [
+        "analisis",
+        "kalkulus",
+        "fungsi",
+        "limit",
+        "turunan",
+        "integral",
+        "riil",
+        "kompleks",
+        "fourier",
+        "vektor"
+      ]
+    },
+    {
+      "category_name": "516 - Geometri",
+      "rack_id": "RK516",
+      "keywords": [
+        "geometri",
+        "bentuk",
+        "ruang",
+        "garis",
+        "sudut",
+        "bangun",
+        "transformasi",
+        "euclidean",
+        "non-euclidean",
+        "vektor"
+      ]
+    },
+    {
+      "category_name": "519 - Probabilitas dan Matematika Terapan",
+      "rack_id": "RK519",
+      "keywords": [
+        "probabilitas",
+        "statistik",
+        "terapan",
+        "model",
+        "data",
+        "inferensi",
+        "stokastik",
+        "simulasi",
+        "riset",
+        "operasi"
+      ]
+    },
+    {
+      "category_name": "520 - Astronomi",
+      "rack_id": "RK520",
+      "keywords": [
+        "astronomi",
+        "alam semesta",
+        "bintang",
+        "galaksi",
+        "planet",
+        "kosmologi",
+        "teleskop",
+        "ruang",
+        "fenomena",
+        "alam"
+      ]
+    },
+    {
+      "category_name": "530 - Fisika",
+      "rack_id": "RK530",
+      "keywords": [
+        "fisika",
+        "materi",
+        "energi",
+        "gerak",
+        "listrik",
+        "mekanika",
+        "kuantum",
+        "relativitas",
+        "termodinamika",
+        "gelombang"
+      ]
+    },
+    {
+      "category_name": "531 - Mekanika Klasik",
+      "rack_id": "RK531",
+      "keywords": [
+        "mekanika",
+        "klasik",
+        "newton",
+        "gerak",
+        "gaya",
+        "energi",
+        "momentum",
+        "sistem",
+        "partikel",
+        "osilasi"
+      ]
+    },
+    {
+      "category_name": "532 - Mekanika Cair/Florida",
+      "rack_id": "RK532",
+      "keywords": [
+        "cairan",
+        "fluida",
+        "hidrodinamika",
+        "aerodinamika",
+        "aliran",
+        "tekanan",
+        "viskositas",
+        "turbulensi",
+        "pompa",
+        "pipa"
+      ]
+    },
+    {
+      "category_name": "533 - Mekanika Gas",
+      "rack_id": "RK533",
+      "keywords": [
+        "gas",
+        "termodinamika",
+        "kinetik",
+        "tekanan",
+        "volume",
+        "suhu",
+        "molekul",
+        "ideal",
+        "nyata",
+        "kompresi"
+      ]
+    },
+    {
+      "category_name": "534 - Bunyi dan Vibrasi",
+      "rack_id": "RK534",
+      "keywords": [
+        "bunyi",
+        "vibrasi",
+        "akustik",
+        "gelombang",
+        "suara",
+        "frekuensi",
+        "resonansi",
+        "getaran",
+        "transmisi",
+        "resonansi"
+      ]
+    },
+    {
+      "category_name": "536 - Panas",
+      "rack_id": "RK536",
+      "keywords": [
+        "panas",
+        "termodinamika",
+        "transfer",
+        "konduksi",
+        "konveksi",
+        "radiasi",
+        "suhu",
+        "kalor",
+        "entropi",
+        "energi"
+      ]
+    },
+    {
+      "category_name": "537 - Listrik dan Elektronik",
+      "rack_id": "RK537",
+      "keywords": [
+        "listrik",
+        "elektronik",
+        "sirkuit",
+        "arus",
+        "tegangan",
+        "resistor",
+        "kapasitor",
+        "induktor",
+        "semikonduktor",
+        "digital"
+      ]
+    },
+    {
+      "category_name": "538 - Magnetik",
+      "rack_id": "RK538",
+      "keywords": [
+        "magnetik",
+        "medan",
+        "elektromagnetik",
+        "induksi",
+        "ferromagnetik",
+        "inti",
+        "kutub",
+        "arus",
+        "transformator",
+        "motor"
+      ]
+    },
+    {
+      "category_name": "539 - Fisika Modern",
+      "rack_id": "RK539",
+      "keywords": [
+        "fisika",
+        "materi",
+        "energi",
+        "gerak",
+        "listrik",
+        "mekanika",
+        "kuantum",
+        "relativitas",
+        "termodinamika",
+        "gelombang"
+      ]
+    },
+    {
+      "category_name": "540 - Kimia",
+      "rack_id": "RK540",
+      "keywords": [
+        "kimia",
+        "unsur",
+        "senyawa",
+        "reaksi",
+        "atom",
+        "molekul",
+        "ikatan",
+        "organik",
+        "anorganik",
+        "laboratorium"
+      ]
+    },
+    {
+      "category_name": "541 - Kimia Fisika, Kimia Teori",
+      "rack_id": "RK541",
+      "keywords": [
+        "fisika",
+        "materi",
+        "energi",
+        "gerak",
+        "listrik",
+        "mekanika",
+        "kuantum",
+        "relativitas",
+        "termodinamika",
+        "gelombang"
+      ]
+    },
+    {
+      "category_name": "542 - Teknik, Prosedur, Perlengkapan, dan Material",
+      "rack_id": "RK542",
+      "keywords": [
+        "teknik",
+        "prosedur",
+        "perlengkapan",
+        "material",
+        "manufaktur",
+        "inovasi",
+        "desain",
+        "pengembangan",
+        "industri",
+        "rekayasa"
+      ]
+    },
+    {
+      "category_name": "543 - Kimia Analitik",
+      "rack_id": "RK543",
+      "keywords": [
+        "kimia",
+        "unsur",
+        "senyawa",
+        "reaksi",
+        "atom",
+        "molekul",
+        "ikatan",
+        "organik",
+        "anorganik",
+        "laboratorium"
+      ]
+    },
+    {
+      "category_name": "544 - Analisis Kualitatif",
+      "rack_id": "RK544",
+      "keywords": [
+        "analisis",
+        "kalkulus",
+        "fungsi",
+        "limit",
+        "turunan",
+        "integral",
+        "riil",
+        "kompleks",
+        "fourier",
+        "vektor"
+      ]
+    },
+    {
+      "category_name": "545 - Analisis Kualitatif",
+      "rack_id": "RK545",
+      "keywords": [
+        "analisis",
+        "kalkulus",
+        "fungsi",
+        "limit",
+        "turunan",
+        "integral",
+        "riil",
+        "kompleks",
+        "fourier",
+        "vektor"
+      ]
+    },
+    {
+      "category_name": "546 - Kimia Anorganik",
+      "rack_id": "RK546",
+      "keywords": [
+        "kimia",
+        "unsur",
+        "senyawa",
+        "reaksi",
+        "atom",
+        "molekul",
+        "ikatan",
+        "organik",
+        "anorganik",
+        "laboratorium"
+      ]
+    },
+    {
+      "category_name": "547 - Kimia Organik",
+      "rack_id": "RK547",
+      "keywords": [
+        "kimia",
+        "unsur",
+        "senyawa",
+        "reaksi",
+        "atom",
+        "molekul",
+        "ikatan",
+        "organik",
+        "anorganik",
+        "laboratorium"
+      ]
+    },
+    {
+      "category_name": "548 - Kristalografi",
+      "rack_id": "RK548",
+      "keywords": [
+        "kristalografi",
+        "kristal",
+        "struktur",
+        "padat",
+        "difraksi",
+        "x-ray",
+        "simetri",
+        "mineralogi",
+        "bahan",
+        "material"
+      ]
+    },
+    {
+      "category_name": "549 - Mineralogi",
+      "rack_id": "RK549",
+      "keywords": [
+        "mineralogi",
+        "mineral",
+        "batuan",
+        "geologi",
+        "kristal",
+        "identifikasi",
+        "komposisi",
+        "sifat",
+        "endapan",
+        "geokimia"
+      ]
+    },
+    {
+      "category_name": "550 - Ilmu Bumi",
+      "rack_id": "RK550",
+      "keywords": [
+        "bumi",
+        "geologi",
+        "meteorologi",
+        "oseanografi",
+        "lingkungan",
+        "iklim",
+        "gempa",
+        "gunung",
+        "bencana",
+        "planet"
+      ]
+    },
+    {
+      "category_name": "551 - Geologi, Hidrologi, dan Meteorologi",
+      "rack_id": "RK551",
+      "keywords": [
+        "geologi",
+        "hidrologi",
+        "meteorologi",
+        "bumi",
+        "air",
+        "cuaca",
+        "iklim",
+        "batuan",
+        "siklus",
+        "fenomena"
+      ]
+    },
+    {
+      "category_name": "552 - Petrologi",
+      "rack_id": "RK552",
+      "keywords": [
+        "petrologi",
+        "batuan",
+        "igneous",
+        "sedimen",
+        "metamorf",
+        "formasi",
+        "mineral",
+        "geologi",
+        "genesis",
+        "klasifikasi"
+      ]
+    },
+    {
+      "category_name": "553 - Geologi",
+      "rack_id": "RK553",
+      "keywords": [
+        "geologi",
+        "hidrologi",
+        "meteorologi",
+        "bumi",
+        "air",
+        "cuaca",
+        "iklim",
+        "batuan",
+        "siklus",
+        "fenomena"
+      ]
+    },
+    {
+      "category_name": "570 - Ilmu Hidup",
+      "rack_id": "RK570",
+      "keywords": [
+        "biologi",
+        "hidup",
+        "organisme",
+        "ekosistem",
+        "evolusi",
+        "sel",
+        "genetika",
+        "lingkungan",
+        "kehidupan",
+        "biosfer"
+      ]
+    },
+    {
+      "category_name": "572 - Ras Manusia",
+      "rack_id": "RK572",
+      "keywords": [
+        "manusia",
+        "ras",
+        "etnis",
+        "antropologi",
+        "budaya",
+        "masyarakat",
+        "populasi",
+        "diversitas",
+        "genetika",
+        "sejarah"
+      ]
+    },
+    {
+      "category_name": "573 - Antropologi Fisik",
+      "rack_id": "RK573",
+      "keywords": [
+        "antropologi",
+        "fisik",
+        "manusia",
+        "evolusi",
+        "primata",
+        "tulang",
+        "arkeologi",
+        "paleoantropologi",
+        "genetika",
+        "adaptasi"
+      ]
+    },
+    {
+      "category_name": "574 - Biologi",
+      "rack_id": "RK574",
+      "keywords": [
+        "biologi",
+        "organisme",
+        "sel",
+        "genetika",
+        "ekologi",
+        "evolusi",
+        "fisiologi",
+        "botani",
+        "zoologi",
+        "mikrobiologi"
+      ]
+    },
+    {
+      "category_name": "575 - Evolusi dan Genetik",
+      "rack_id": "RK575",
+      "keywords": [
+        "evolusi",
+        "genetika",
+        "dna",
+        "rna",
+        "mutasi",
+        "seleksi",
+        "darwin",
+        "keturunan",
+        "kromosom",
+        "biologi"
+      ]
+    },
+    {
+      "category_name": "576 - Mikrobiologi",
+      "rack_id": "RK576",
+      "keywords": [
+        "mikrobiologi",
+        "mikroba",
+        "bakteri",
+        "virus",
+        "jamur",
+        "patogen",
+        "imunologi",
+        "bioteknologi",
+        "fermentasi",
+        "infeksi"
+      ]
+    },
+    {
+      "category_name": "577 - Alam Umum",
+      "rack_id": "RK577",
+      "keywords": [
+        "alam",
+        "lingkungan",
+        "ekologi",
+        "konservasi",
+        "flora",
+        "fauna",
+        "bumi",
+        "sumber daya",
+        "biodiversitas",
+        "fenomena"
+      ]
+    },
+    {
+      "category_name": "581 - Botani",
+      "rack_id": "RK581",
+      "keywords": [
+        "botani",
+        "tumbuhan",
+        "flora",
+        "fotosintesis",
+        "anatomi",
+        "morfologi",
+        "fisiologi",
+        "taksonomi",
+        "ekologi",
+        "pertanian"
+      ]
+    },
+    {
+      "category_name": "600 - Teknologi",
+      "rack_id": "RK600",
+      "keywords": [
+        "teknologi",
+        "inovasi",
+        "desain",
+        "rekayasa",
+        "industri",
+        "komputer",
+        "digital",
+        "modern",
+        "aplikasi",
+        "otomasi"
+      ]
+    },
+    {
+      "category_name": "610 - Ilmu Medis",
+      "rack_id": "RK610",
+      "keywords": [
+        "medis",
+        "kedokteran",
+        "kesehatan",
+        "penyakit",
+        "diagnosa",
+        "terapi",
+        "anatomi",
+        "fisiologi",
+        "farmakologi",
+        "klinis"
+      ]
+    },
+    {
+      "category_name": "615 - Farmakologi & Terapi",
+      "rack_id": "RK615",
+      "keywords": [
+        "farmakologi",
+        "terapi",
+        "obat",
+        "farmasi",
+        "klinis",
+        "efek",
+        "interaksi",
+        "dosis",
+        "pengobatan",
+        "reseptor"
+      ]
+    },
+    {
+      "category_name": "616 - Penyakit",
+      "rack_id": "RK616",
+      "keywords": [
+        "penyakit",
+        "patologi",
+        "epidemiologi",
+        "diagnosa",
+        "pengobatan",
+        "pencegahan",
+        "infeksi",
+        "kronis",
+        "kesehatan",
+        "medis"
+      ]
+    },
+    {
+      "category_name": "620 - Teknik",
+      "rack_id": "RK620",
+      "keywords": [
+        "teknik",
+        "prosedur",
+        "perlengkapan",
+        "material",
+        "manufaktur",
+        "inovasi",
+        "desain",
+        "pengembangan",
+        "industri",
+        "rekayasa"
+      ]
+    },
+    {
+      "category_name": "621 - Fisika Terapan",
+      "rack_id": "RK621",
+      "keywords": [
+        "fisika",
+        "materi",
+        "energi",
+        "gerak",
+        "listrik",
+        "mekanika",
+        "kuantum",
+        "relativitas",
+        "termodinamika",
+        "gelombang"
+      ]
+    },
+    {
+      "category_name": "622 - Tambang",
+      "rack_id": "RK622",
+      "keywords": [
+        "tambang",
+        "mineral",
+        "batubara",
+        "minyak",
+        "gas",
+        "eksplorasi",
+        "ekstraksi",
+        "geologi",
+        "metalurgi",
+        "lingkungan"
+      ]
+    },
+    {
+      "category_name": "623 - Militer & Teknik Bahari",
+      "rack_id": "RK623",
+      "keywords": [
+        "teknik",
+        "rekayasa",
+        "desain",
+        "konstruksi",
+        "sistem",
+        "manufaktur",
+        "inovasi",
+        "solusi",
+        "industri",
+        "aplikasi"
+      ]
+    },
+    {
+      "category_name": "624 - Teknik Sipil",
+      "rack_id": "RK624",
+      "keywords": [
+        "teknik",
+        "rekayasa",
+        "desain",
+        "konstruksi",
+        "sistem",
+        "manufaktur",
+        "inovasi",
+        "solusi",
+        "industri",
+        "aplikasi"
+      ]
+    },
+    {
+      "category_name": "628 - Sanitari & Lingkungan",
+      "rack_id": "RK628",
+      "keywords": [
+        "sanitari",
+        "lingkungan",
+        "air limbah",
+        "sampah",
+        "polusi",
+        "kesehatan",
+        "ekologi",
+        "daur ulang",
+        "konservasi",
+        "sustainability"
+      ]
+    },
+    {
+      "category_name": "629 - Teknik Ruang Angkasa, Teknik Kendali Otomatis",
+      "rack_id": "RK629",
+      "keywords": [
+        "teknik",
+        "rekayasa",
+        "desain",
+        "konstruksi",
+        "sistem",
+        "manufaktur",
+        "inovasi",
+        "solusi",
+        "industri",
+        "aplikasi"
+      ]
+    },
+    {
+      "category_name": "630 - Pertanian",
+      "rack_id": "RK630",
+      "keywords": [
+        "pertanian",
+        "tanaman",
+        "hewan",
+        "pangan",
+        "agronomi",
+        "hortikultura",
+        "peternakan",
+        "perikanan",
+        "irigasi",
+        "inovasi"
+      ]
+    },
+    {
+      "category_name": "650 - Manajemen",
+      "rack_id": "RK650",
+      "keywords": [
+        "manajemen",
+        "bisnis",
+        "strategi",
+        "organisasi",
+        "kepemimpinan",
+        "proyek",
+        "keuangan",
+        "pemasaran",
+        "operasional",
+        "sumber daya"
+      ]
+    },
+    {
+      "category_name": "658 - Manajemen Umum",
+      "rack_id": "RK658",
+      "keywords": [
+        "manajemen",
+        "bisnis",
+        "strategi",
+        "organisasi",
+        "kepemimpinan",
+        "proyek",
+        "keuangan",
+        "pemasaran",
+        "operasional",
+        "sumber daya"
+      ]
+    },
+    {
+      "category_name": "660 - Teknik Kimia",
+      "rack_id": "RK660",
+      "keywords": [
+        "kimia",
+        "unsur",
+        "senyawa",
+        "reaksi",
+        "atom",
+        "molekul",
+        "ikatan",
+        "organik",
+        "anorganik",
+        "laboratorium"
+      ]
+    },
+    {
+      "category_name": "661 - Teknologi Kimia Industri",
+      "rack_id": "RK661",
+      "keywords": [
+        "kimia",
+        "unsur",
+        "senyawa",
+        "reaksi",
+        "atom",
+        "molekul",
+        "ikatan",
+        "organik",
+        "anorganik",
+        "laboratorium"
+      ]
+    },
+    {
+      "category_name": "664 - Teknologi Pangan",
+      "rack_id": "RK664",
+      "keywords": [
+        "teknologi",
+        "inovasi",
+        "desain",
+        "rekayasa",
+        "industri",
+        "komputer",
+        "digital",
+        "modern",
+        "aplikasi",
+        "otomasi"
+      ]
+    },
+    {
+      "category_name": "668 - Teknologi Produk Organik",
+      "rack_id": "RK668",
+      "keywords": [
+        "teknologi",
+        "inovasi",
+        "desain",
+        "rekayasa",
+        "industri",
+        "komputer",
+        "digital",
+        "modern",
+        "aplikasi",
+        "otomasi"
+      ]
+    },
+    {
+      "category_name": "669 - Metalurgi",
+      "rack_id": "RK669",
+      "keywords": [
+        "metalurgi",
+        "logam",
+        "paduan",
+        "material",
+        "proses",
+        "manufaktur",
+        "ekstraksi",
+        "karakterisasi",
+        "struktur",
+        "rekayasa"
+      ]
+    },
+    {
+      "category_name": "670 - Manufaktur",
+      "rack_id": "RK670",
+      "keywords": [
+        "manufaktur",
+        "produksi",
+        "industri",
+        "proses",
+        "otomasi",
+        "desain",
+        "kualitas",
+        "manajemen",
+        "perakitan",
+        "teknologi"
+      ]
+    },
+    {
+      "category_name": "800 - Sastra",
+      "rack_id": "RK800",
+      "keywords": [
+        "sastra",
+        "novel",
+        "puisi",
+        "drama",
+        "kritik",
+        "fiksi",
+        "non-fiksi",
+        "penulisan",
+        "bahasa",
+        "literatur"
+      ]
+    },
+    {
+      "category_name": "900 - Geografi dan Sejarah",
+      "rack_id": "RK900",
+      "keywords": [
+        "geografi",
+        "sejarah",
+        "peta",
+        "wilayah",
+        "peradaban",
+        "peristiwa",
+        "budaya",
+        "sosial",
+        "politik",
+        "lingkungan"
+      ]
+    }
+  ]

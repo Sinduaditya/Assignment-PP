@@ -1,0 +1,9 @@
+streamlit==1.32.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.2.0
+torch==2.2.1
+easyocr==1.7.1
+h5py==3.10.0
+flask==3.0.2
+flask-cors==4.0.0 
