@@ -47,8 +47,9 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
 
 1. **Clone Repositori**
    ```bash
-   git clone https://github.com/JovanSantosa/cover-book-recognition.git
+   git clone https://github.com/Sinduaditya/Assignment-PP.git
    cd COVER-BOOK-RECOGNITION
+   git checkout tugas-kelompok
    ```
 
 2. **Buat dan Aktifkan Lingkungan Virtual (Direkomendasikan)**
@@ -94,52 +95,3 @@ Untuk menguji akurasi model terhadap dataset evaluasi:
 ```bash
 python evaluate_model.py
 ```
-
----
-
-# EL Class Pattern Recognition Assignment Repo
-
-## Petunjuk Bagi Mahasiswa
-
-Ikuti langkah-langkah berikut untuk mengerjakan tugas:
-
-1. **Fork Repository Ini**  
-   Klik tombol **Fork** di sudut kanan atas halaman repository ini untuk membuat salinan repository ke akun GitHub Anda.
-
-2. **Clone Fork Repository Anda ke Lokal**  
-   Buka terminal dan jalankan perintah berikut (ganti `<username>` dengan username GitHub Anda):
-   ```bash
-   git clone https://github.com/<username>/Assignment.git
-   ```
-
-3. **Buat Branch di Fork Anda**  
-   Masuk ke direktori repository yang telah di-clone:
-   ```bash
-   cd Assignment
-   ```
-   Buat branch baru dengan nama `Assignment-n`, di mana `n` adalah nomor tugas. Contoh: untuk Tugas 1:
-   ```bash
-   git checkout -b Assignment-1
-   ```
-
-4. **Kerjakan Tugas Anda**  
-   Tambahkan file hasil pengerjaan tugas Anda (baik **.ipynb** maupun **.py**) ke dalam branch yang telah dibuat.
-
-5. **Push File ke Fork Repository Anda**  
-   Setelah selesai mengerjakan, jalankan perintah berikut untuk mengirim perubahan ke GitHub:
-   ```bash
-   git add .
-   git commit -m "Tugas 1 - Penugasan EL Class Pattern Recognition"
-   git push origin Assignment-1
-   ```
-
-6. **Lakukan Pull Request ke Repository Utama (Upstream)**  
-   - Buka repository fork Anda di GitHub.
-   - Klik tombol **Compare & pull request** pada branch `Assignment-1`.
-   - Buat pull request ke repository utama.
-   - Tunggu hingga seluruh pemeriksaan selesai sebelum pull request Anda di-merge.
-
-7. **Selesai**  
-   Setelah pull request diterima dan semua pemeriksaan selesai, tugas Anda dianggap selesai.
-
-Selamat mengerjakan!
