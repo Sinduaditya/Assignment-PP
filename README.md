@@ -48,17 +48,23 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
 1. **Clone Repositori**
    ```bash
    git clone https://github.com/Sinduaditya/Assignment-PP.git
-   cd COVER-BOOK-RECOGNITION
+   cd Assignment-PP
    git checkout tugas-kelompok
    ```
+   **Atau Bisa melakukan Clone secara spesifik di Branch tugas-kelompok**
+   ```bash
+   git clone -b tugas-kelompok https://github.com/Sinduaditya/Assignment-PP.git
+   cd Assignment-PP
+   ```
 
-2. **Buat dan Aktifkan Lingkungan Virtual (Direkomendasikan)**
+
+3. **Buat dan Aktifkan Lingkungan Virtual (Direkomendasikan)**
    ```bash
    python -m venv venv
    source venv/bin/activate  # Untuk Windows: venv\Scripts\activate
    ```
 
-3. **Instal Dependensi**
+4. **Instal Dependensi**
    Pastikan semua pustaka yang dibutuhkan terinstal:
    ```bash
    pip install -r requirements.txt
